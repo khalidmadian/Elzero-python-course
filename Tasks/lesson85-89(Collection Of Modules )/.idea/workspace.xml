@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="533103aa-eb2f-44c5-8033-af1fd98d7681" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/task2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/task2/python/main.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2t1UmgiTdAGMDVMx3dKCr3cPLCW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.assign.executor": "Run",
+    "Python.elzero_exam.executor": "Run",
+    "Python.elzero_exam1.executor": "Run",
+    "Python.elzero_exam2.executor": "Run",
+    "Python.elzero_task1.executor": "Run",
+    "Python.elzero_task2.executor": "Run",
+    "Python.elzero_task3.executor": "Run",
+    "Python.elzero_task4.executor": "Run",
+    "Python.elzero_task5.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.practical_membership_control.executor": "Run",
+    "Python.sdgsg.executor": "Run",
+    "Python.task1.executor": "Run",
+    "Python.task2.executor": "Run",
+    "Python.task3.executor": "Run",
+    "Python.task4.executor": "Run",
+    "Python.teat.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.test2_another_way.executor": "Run",
+    "Python.test_1.executor": "Run",
+    "Python.test_append.executor": "Run",
+    "Python.test_write.executor": "Run",
+    "Python.w3schools( Access Set Items).executor": "Run",
+    "Python.w3schools(Join Sets).executor": "Run",
+    "Python.w3schools(Remove Set Items).executor": "Run",
+    "Python.w3schools(Set Methods).executor": "Run",
+    "Python.w3schools.executor": "Run",
+    "Python.w3schools1.executor": "Run",
+    "Python.w3schools2(Access Dictionary Items).executor": "Run",
+    "Python.w3schools2(Dictionaries).executor": "Run",
+    "Python.w3schools2(Nested Dictionaries).executor": "Run",
+    "Python.w3schools2(Remove Item).executor": "Run",
+    "Python.w3schools_lambda.executor": "Run",
+    "Python.w3schools_lambda1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/khalid/Abolftoh/courses/Elzero python/Tasks/lesson86-89(Collection Of Modules )",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="w3schools( Access Set Items)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lesson26-32(Set, Dictionary &amp; Methods)" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3schools( Access Set Items).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="533103aa-eb2f-44c5-8033-af1fd98d7681" name="Changes" comment="" />
+      <created>1739519235136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739519235136</updated>
+    </task>
+    <servers />
+  </component>
+</project>
