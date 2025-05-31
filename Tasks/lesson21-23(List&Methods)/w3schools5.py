@@ -1,5 +1,5 @@
 list_1 = ["apple", "banana", "cherry"]
-list_2 = ["kino", "bring", "ting"]
+list_2 = ["vegetables", "=", "tomate"]
 
 list_3=list_2+list_1
 
